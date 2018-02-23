@@ -13,6 +13,7 @@ We do say 'eh' a lot).
 That's it for now...
 
 
+********************
 
-\nTrying to learn how to write clean code!
+Trying to learn how to write clean code!
 https://www.codeschool.com/blog/2015/09/29/10-ways-to-write-cleaner-code/
