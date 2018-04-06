@@ -31,6 +31,7 @@ So, I got called to an McDonald's orientation last week. It was Wednesday. It wa
 ********************
 
 SO! My ideas for the citation program I was thinking about! Cito!:
+
 Create a web-plugin tool to which you can save all pages you visit and it saves its links and creates a citation.
 Create a file requirement in webpages with a cit.txt file which contains all the citations of a webpage.
 A citation tool for web-pages, which lets users save citations to those pages with a click.
