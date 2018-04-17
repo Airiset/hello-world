@@ -36,3 +36,7 @@ Create a web-plugin tool to which you can save all pages you visit and it saves 
 Create a file requirement in webpages with a cit.txt file which contains all the citations of a webpage.
 A citation tool for web-pages, which lets users save citations to those pages with a click.
 A citation connects to another source which in part may have another citation. A crawler must be able to search through it.
+
+********************
+
+I've started learning SQL. It is for a project that my CompSci teacher asked us to do to ease up her work. It is already finished, but because a program is never perfect, I've decided to make it wayyy more effective. So databases is the way to go... Now, how am I going to learn SQL, if I have NO MOMENTS TO DO IT! Not forgetting the fact that I get lazy at times, so time-wasting is a vice of mine. (-Come on! You got to learn a bit more about time management and have a little more discipline, mate~ Naaah-).
