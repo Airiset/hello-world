@@ -40,3 +40,9 @@ A citation connects to another source which in part may have another citation. A
 ********************
 
 I've started learning SQL. It is for a project that my CompSci teacher asked us to do to ease up her work. It is already finished, but because a program is never perfect, I've decided to make it wayyy more effective. So databases is the way to go... Now, how am I going to learn SQL, if I have NO MOMENTS TO DO IT! Not forgetting the fact that I get lazy at times, so time-wasting is a vice of mine. (-Come on! You got to learn a bit more about time management and have a little more discipline, mate~ Naaah-).
+
+********************
+
+The citation program I was planning to do is... a little complicated. So, I've decided to post-pone it until I learn a little bit more, for there is much I am yet to learn.
+
+********************
