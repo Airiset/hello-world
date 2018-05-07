@@ -1,0 +1,10 @@
+https://hbr.org/2018/01/why-we-should-be-disagreeing-more-at-work?referral=03758&cm_vc=rr_item_page.top_right
+https://hbr.org/2018/01/what-self-awareness-really-is-and-how-to-cultivate-it?referral=03758&cm_vc=rr_item_page.top_right
+https://hbr.org/2014/06/choose-the-right-words-in-an-argument
+https://superuser.com/questions/918325/simplest-way-to-setup-my-own-remote-private-git-server
+http://e98cuenc.free.fr/wordprocessor/piecetable.html
+https://superuser.com/questions/872233/simple-read-only-access-for-git-repository-over-http-will-it-just-work?rq=1
+https://superuser.com/questions/382914/is-gitosis-or-gitolite-necessary-to-push-changes-via-http-https-to-remote-git-re?rq=1
+https://superuser.com/questions/346462/setting-up-a-private-git-repo?noredirect=1&lq=1
+https://superuser.com/questions/918325/simplest-way-to-setup-my-own-remote-private-git-server?noredirect=1&lq=1
+https://superuser.com/questions/276355/how-to-setup-own-git-server-whats-bare-non-bare-repos?noredirect=1&lq=1
